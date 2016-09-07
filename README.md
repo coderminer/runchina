@@ -1,5 +1,5 @@
 # runchina
-在中国田协注册的马拉松赛事日历 www.runchina.org
+在中国田协注册的马拉松赛事日历 www.runchina.org.cn
 
 ### 创建工程
 
